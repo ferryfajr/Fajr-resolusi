@@ -1,2 +1,2 @@
 Fajr-resolusi
-Repositori untuk menyimpan Fajr kedepannya
+Repositori untuk menyimpan rencana kedepannya
