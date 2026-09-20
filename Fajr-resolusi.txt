@@ -3,5 +3,4 @@
 -Membuat web untuk UMKM
 -Membuat project untuk portofolio
 -Membuat saas untuk komersial
--Berkolaborasi dengan teman 
--Mengikuti lomba IT
+-Memulai Content IT
