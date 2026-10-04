@@ -3,9 +3,11 @@ RENCANA KONTEN FAJR
 -javascript
  *ES6
  *Framework Javascript
-  ^Angular
+  ^Vue
   ^React
--php Frameworks
+-Struktur Data dasar
+-php Framework
  *Laravel
 -interview
 -vlogs
+-Python
