@@ -3,6 +3,7 @@ RENCANA KONTEN FAJR
 -javascript
  *ES6
  *Framework Javascript
+-Struktur Data dasar
 -php
 -interview
 -vlogs
