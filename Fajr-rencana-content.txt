@@ -1,0 +1,8 @@
+RENCANA KONTEN FAJR
+
+-javascript
+ *ES6
+ *Framework Javascript
+-php
+-interview
+-vlogs
